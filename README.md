@@ -55,3 +55,7 @@ python3 -m unittest -v
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [backupcheck](https://github.com/TPOALOS/backupcheck) · [jobwatch](https://github.com/TPOALOS/jobwatch) · [diskwatch](https://github.com/TPOALOS/diskwatch) · [all 51 tools](https://tpoalos.github.io)
